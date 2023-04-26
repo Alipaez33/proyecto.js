@@ -10,5 +10,4 @@ const miPerfil = {
       url: "https://es.wikipedia.org/wiki/El_principito"
     }
   };
-  
-  
+  console.log(miPerfil);
